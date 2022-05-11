@@ -36,7 +36,8 @@ A) Well...you asked for it....
    https://learning.oreilly.com/library/view/site-reliability-engineering/9781491929117/
 - Laws of UX: Using psychology to design better products & services <br>
    https://learning.oreilly.com/library/view/laws-of-ux/9781492055303/
-- [https://github.com/unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list)  
+- Unixcorn's lengthy resource list  <br>
+  [https://github.com/unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list)  
 
 Q) Are certifications important? 
 A) There are different perspectives on this and its a great question to ask around about.  Most people tend to agree that they are nice to have but not necessary and many effective engineers never took any certs.  As you get later in your career, certs matter less but there can be some benefits to: <br>

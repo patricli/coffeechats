@@ -53,4 +53,5 @@ Titles may provide you with a sense of career progression that has the very real
 Titles may have importance in the context of your organization. It may empower you to lead a large team to pursuit an initiative. It may give you authority to spend over a certain budget on a tool or hire a new employee. It is less about personal pride but more about hierarchy.
 
 Q) How do we develop a culture of remote work?
+
 Q) What are the norms of a healthy workplace?

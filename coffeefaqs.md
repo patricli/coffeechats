@@ -39,7 +39,7 @@ A) Well...you asked for it....
 - Unixcorn's lengthy resource list  <br>
   [https://github.com/unixorn/sysadmin-reading-list](https://github.com/unixorn/sysadmin-reading-list)  
 
-Q) Are certifications important? 
+Q) Are certifications important? <br>
 A) There are different perspectives on this and its a great question to ask around about.  Most people tend to agree that they are nice to have but not necessary and many effective engineers never took any certs.  As you get later in your career, certs matter less but there can be some benefits to: <br>
 
 a - Signaling to an employer that you have done some work on this area and can focus long enough to study  <br>
@@ -48,7 +48,7 @@ c - Differentiates you from other novices, BUT is not a substitute for problem s
 
 Q) Are job titles important? Depends on your own definition of success and context of the organization.
 
-Titles may provide you with a sense of career progression that has the very real benefit of motivating you to stick with the career for longer. It can be an incremental chain of milestones to help you break down a really big goal. Titles can potentially help you bargain for higher salary when changing companies. However, in CoffeeOps discussions we've come to agree that titles are not consistent across companies and industries. In some companies, your title never changes even as you become more senior. Recruiters are probably catching on to this.
+A) Titles may provide you with a sense of career progression that has the very real benefit of motivating you to stick with the career for longer. It can be an incremental chain of milestones to help you break down a really big goal. Titles can potentially help you bargain for higher salary when changing companies. However, in CoffeeOps discussions we've come to agree that titles are not consistent across companies and industries. In some companies, your title never changes even as you become more senior. Recruiters are probably catching on to this.
 
 Titles may have importance in the context of your organization. It may empower you to lead a large team to pursuit an initiative. It may give you authority to spend over a certain budget on a tool or hire a new employee. It is less about personal pride but more about hierarchy.
 

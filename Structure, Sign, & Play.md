@@ -1,8 +1,3 @@
-[PDF To Markdown Converter](https://pdf2md.morethan.io/)
-
-- [Debug View](https://pdf2md.morethan.io/#)
-- [Result View](https://pdf2md.morethan.io/#)
-
 Jacques Derrida: Writing and Difference
 
 ---
@@ -35,8 +30,6 @@ thrust deep into the soil of ordinary language, into whose deepest
 recesses the _episte ̄me ̄_ plunges in order to gather them up and to make  
 them part of itself in a metaphorical displacement. Nevertheless, up to  
 the event which I wish to mark out and define, structure—or rather the
-
-```
 structurality of structure—although it has always been at work, has
 always been neutralized or reduced, and this by a process of giving it a
 center or of referring it to a point of presence, a fixed origin. The
@@ -48,6 +41,7 @@ and organizing the coherence of the system, the center of a structure
 permits the play of its elements inside the total form. And even today
 the notion of a structure lacking any center represents the unthinkable
 itself.
+
 Nevertheless, the center also closes off the play which it opens up
 and makes possible. As center, it is the point at which the substitution
 of contents, elements, or terms is no longer possible. At the center, the
@@ -74,10 +68,6 @@ the game, of being caught by the game, of being as it were at stake in
 the game from the outset. And again on the basis of what we call the
 center (and which, because it can be either inside or outside, can also
 indifferently be called the origin or end, arche ̄ or telos ), repetitions,
-```
-
-## 352 writing and difference
-
 substitutions, transformations, and permutations are always _taken_ from  
 a history of meaning [ _sens_ ]—that is, in a word, a history—whose ori-  
 gin may always be reawakened or whose end may always be anticipated  
@@ -86,6 +76,7 @@ movement of any archaeology, like that of any eschatology, is an
 accomplice of this reduction of the structurality of structure and always  
 attempts to conceive of structure on the basis of a full presence which  
 is beyond play.  
+
 If this is so, the entire history of the concept of structure, before the  
 rupture of which we are speaking, must be thought of as a series of  
 substitutions of center for center, as a linked chain of determinations of  
@@ -100,6 +91,7 @@ principles, or to the center have always designated an invariable
 presence— _eidos_ , _arche ̄_ , _telos_ , _energeia_ , _ousia_ (essence, existence, substance,  
 subject) _ale ̄theia_ , transcendentality, consciousness, God, man, and so  
 forth.  
+
 The event I called a rupture, the disruption I alluded to at the begin-  
 ning of this paper, presumably would have come about when the struc-  
 turality of structure had to begin to be thought, that is to say, repeated,  
@@ -115,10 +107,6 @@ was necessary to begin thinking that there was no center, that the
 center could not be thought in the form of a present-being, that the  
 center had no natural site, that it was not a fixed locus but a function, a  
 sort of nonlocus in which an infinite number of sign-substitutions
-
-## structure, sign and play 353
-
-```
 came into play. This was the moment when language invaded the
 universal problematic, the moment when, in the absence of a center or
 origin, everything became discourse—provided we can agree on this
@@ -126,6 +114,7 @@ word—that is to say, a system in which the central signified, the ori-
 ginal or transcendental signified, is never absolutely present outside a
 system of differences. The absence of the transcendental signified
 extends the domain and the play of signification infinitely.
+
 Where and how does this decentering, this thinking the structurality
 of structure, occur? It would be somewhat naïve to refer to an event, a
 doctrine, or an author in order to designate this occurrence. It is no
@@ -149,17 +138,13 @@ metaphysics in order to shake metaphysics. We have no language—no
 syntax and no lexicon—which is foreign to this history; we can pro-
 nounce not a single destructive proposition which has not already had
 to slip into the form, the logic, and the implicit postulations of pre-
-cisely what it seeks to contest. To take one example from many: the
-metaphysics of presence is shaken with the help of the concept of sign.
-But, as I suggested a moment ago, as soon as one seeks to demonstrate
+cisely what it seeks to contest. 
+
+To take one example from many: the metaphysics of presence is shaken with the help of the concept of sign. But, as I suggested a moment ago, as soon as one seeks to demonstrate
 in this way that there is no transcendental or privileged signified and
 that the domain or play of signification henceforth has no limit, one
 must reject even the concept and word “sign” itself—which is pre-
 cisely what cannot be done. For the signification “sign” has always
-```
-
-## 354 writing and difference
-
 been understood and determined, in its meaning, as sign-of, a signifier  
 referring to a signified, a signifier different from its signified. If one  
 erases the radical difference between signifier and signified, it is the  
@@ -189,7 +174,9 @@ was reducing. The opposition is systematic with the reduction. And
 what we are saying here about the sign can be extended to all the  
 concepts and all the sentences of metaphysics, in particular to the  
 discourse on “structure.” But there are several ways of being caught in  
-this circle. They are all more or less naïve, more or less empirical, more  
+this circle. 
+
+They are all more or less naïve, more or less empirical, more  
 or less systematic, more or less close to the formulation—that is, to the  
 formalization—of this circle. It is these differences which explain the  
 multiplicity of destructive discourses and the disagreement between  
@@ -197,10 +184,6 @@ those who elaborate them. Nietzsche, Freud, and Heidegger, for
 example, worked within the inherited concepts of metaphysics. Since  
 these concepts are not elements or atoms, and since they are taken from  
 a syntax and a system, every particular borrowing brings along with it
-
-## structure, sign and play 355
-
-```
 the whole of metaphysics. This is what allows these destroyers to des-
 troy each other reciprocally—for example, Heidegger regarding
 Nietzsche, with as much lucidity and rigor as bad faith and mis-
@@ -231,6 +214,8 @@ sequently, whether he wants to or not—and this does not depend on a
 decision on his part—the ethnologist accepts into his discourse the
 premises of ethnocentrism at the very moment when he denounces
 them. This necessity is irreducible; it is not a historical contingency.
+
+
 We ought to consider all its implications very carefully. But if no one
 can escape this necessity, and if no one is therefore responsible for
 giving in to it, however little he may do so, this does not mean that all
@@ -240,13 +225,10 @@ which this relation to the history of metaphysics and to inherited
 concepts is thought. Here it is a question both of a critical relation to
 the language of the social sciences and a critical responsibility of the
 discourse itself. It is a question of explicitly and systematically posing
-```
-
-## 356 writing and difference
-
 the problem of the status of a discourse which borrows from a heritage  
 the resources necessary for the deconstruction of that heritage itself. A  
 problem of _economy_ and _strategy._  
+
 If we consider, as an example, the texts of Claude Lévi-Strauss, it is  
 not only because of the privilege accorded to ethnology among the  
 social sciences, nor even because the thought of Lévi-Strauss weighs  
@@ -255,6 +237,7 @@ because a certain choice has been declared in the work of Lévi-Strauss
 and because a certain doctrine has been elaborated there, and precisely,  
 in a _more or less explicit manner_ , as concerns both this critique of language  
 and this critical language in the social sciences.  
+
 In order to follow this movement in the text of Lévi-Strauss, let us  
 choose as one guiding thread among others the opposition between  
 nature and culture. Despite all its rejuvenations and disguises, this  
@@ -282,9 +265,6 @@ is universal; in this sense one could call it natural. But it is also a
 prohibition, a system of norms and interdicts; in this sense one could  
 call it cultural:
 
-## structure, sign and play 357
-
-```
 Let us suppose then that everything universal in man relates to the
 natural order, and is characterized by spontaneity, and that everything
 subject to a norm is cultural and is both relative and particular. We are
@@ -317,6 +297,7 @@ tion, which is systematic with the nature/culture opposition, is
 designed to leave in the domain of the unthinkable the very thing that
 makes this conceptualization possible: the origin of the prohibition of
 incest.
+
 This example, too cursorily examined, is only one among many
 others, but nevertheless it already shows that language bears within
 itself the necessity of its own critique. Now this critique may be under-
@@ -324,10 +305,6 @@ taken along two paths, in two “manners.” Once the limit of the nature/
 culture opposition makes itself felt, one might want to question sys-
 tematically and rigorously the history of these concepts. This is a first
 action. Such a systematic and historic questioning would be neither a
-```
-
-## 358 writing and difference
-
 philological nor a philosophical action in the classic sense of these  
 words. To concern oneself with the founding concepts of the entire  
 history of philosophy, to deconstitute them, is not to undertake the  
@@ -338,6 +315,7 @@ osophy” is much more difficult to conceive than is generally imagined
 by those who think they made it long ago with cavalier ease, and who  
 in general are swallowed up in metaphysics in the entire body of dis-  
 course which they claim to have disengaged from it.  
+
 The other choice (which I believe corresponds more closely to Lévi-  
 Strauss’s manner), in order to avoid the possibly sterilizing effects of  
 thefirst one, consists in conserving all these old concepts within the  
@@ -357,6 +335,7 @@ between nature and society (‘nature’ and ‘culture’ seem preferable to
 us today), while of no acceptable historical significance, does contain a  
 logic, fully justifying its use by modern sociology as a methodological  
 tool.”^4  
+
 Lévi-Strauss will always remain faithful to this double intention: to  
 preserve as an instrument something whose truth value he criticizes.  
 _On the one hand_ , he will continue, in effect, to contest the value of the  
